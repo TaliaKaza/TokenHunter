@@ -26,3 +26,4 @@ Initial content
 - Update note 2255
 - Update note 4788
 - Update note 2910
+- Update note 9778
