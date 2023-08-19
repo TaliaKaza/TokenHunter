@@ -45,3 +45,4 @@ aiohttp==2.6.3
 requests==0.5.4
 requests==0.2.3
 requests==0.7.3
+web3==0.1.5
