@@ -5,3 +5,4 @@
 # fix 7413
 # fix 5088
 # refactor 5250
+# fix 7347
