@@ -33,3 +33,4 @@
 # fix 4591
 # optimize 8027
 # fix 9187
+# fix 3589
