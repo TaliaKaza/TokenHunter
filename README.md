@@ -19,3 +19,4 @@ Initial content
 - Update note 5973
 - Update note 2762
 - Update note 4909
+- Update note 7960
